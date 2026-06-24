@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Giorgi 👋
 
-<!--
-**buchqi/buchqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on backend development, AI-integrated applications, and real-world software projects.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, JavaScript, TypeScript
+- FastAPI
+- PostgreSQL, MySQL, ChromaDB
+- REST APIs, JWT Auth, Role-Based Authorization
+- React, 
+- Git, GitHub
+
+## Featured Projects
+
+### MENUE — QR Menu SaaS
+Restaurant QR menu platform with analytics, AI insights, QR table management, and role-based access.
+
+### AI-Assisted Dispatching Platform
+Logistics dispatching system using FastAPI, PostgreSQL, WebSockets, and AI-based load explanations.
+
+### AI Movie Adviser
+AI-powered movie recommendation system using FastAPI, React, PostgreSQL, ChromaDB, and Gemini.
+
+
+## Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning foundations
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/giorgi-tkebuchava-9986b13a9/
+- GitHub: https://github.com/buchqi
